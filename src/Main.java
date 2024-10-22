@@ -13,6 +13,7 @@ public class Main {
         employees[8] = new Employee("Буторов Игорь Евгеньевич", 2, 150_000);
         employees[9] = new Employee("Петрова Анастасия Алексеевна", 4, 600_000);
 
+
         // Вывод
         printAllEmployess();
         System.out.println("Сумма затрат на ЗП за месяц: " + fullSumSalary());
